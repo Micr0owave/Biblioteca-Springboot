@@ -42,6 +42,40 @@
     -->
 
     <!--
+       !
+       ^
+      / \
+     /___\
+    |=   =|
+    |     |
+    |     |
+    |     |
+    |     |
+    |     |
+    |     |
+    |     |
+    |     |
+    |     |
+   /|##!##|\
+  / |##!##| \
+ /  |##!##|  \
+|  / ^ | ^ \  |
+| /  ( | )  \ |
+|/   ( | )   \|
+    ((   ))
+   ((  :  ))
+   ((  :  ))
+    ((   ))
+     (( ))
+      ( )
+       .
+       .
+       .
+-->
+
+
+
+    <!--
     Propiedades comunes a todos los modulos.
     Se reutilizan en todo el proyecto para evitar duplicacion.
     -->
