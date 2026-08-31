@@ -14,3 +14,5 @@ y tambien se hizo 1 commit de tipo hotfix para arreglar un error que hubo en el 
 arreglando la vela que no estaba prendida y encima no encerrada en comentarios para que no afecte al codigo del archivo pom.xml
 
 se hizo 3 merge a la rama principal, 2 fueron de feature agregando los artes ASCII y 1 hotfix para arreglar 1 de los artes ASCII que fue erroneamente implementado
+
+se creó un action para github action, este se trata de un saludo automatico para probar y entender la funcion de github actions, este mismo se le indica que por cada push hecho en cualquiera de las ramas, este va a activarse o hacer un trigger "dispararse" saludando cada que un desarrollador haga un push este mensaje se escribio en la rama develop para probar el disparador
