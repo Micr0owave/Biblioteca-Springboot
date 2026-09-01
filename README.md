@@ -16,3 +16,8 @@ arreglando la vela que no estaba prendida y encima no encerrada en comentarios p
 se hizo 3 merge a la rama principal, 2 fueron de feature agregando los artes ASCII y 1 hotfix para arreglar 1 de los artes ASCII que fue erroneamente implementado
 
 se creó un action para github action, este se trata de un saludo automatico para probar y entender la funcion de github actions, este mismo se le indica que por cada push hecho en cualquiera de las ramas, este va a activarse o hacer un trigger "dispararse" saludando cada que un desarrollador haga un push este mensaje se escribio en la rama develop para probar el disparador
+
+un total de 26 commits incluyendo actualizar el readme, los demas commits hechos fueron desde develop y feature para intregar los disparadores tanto de pull request como tambien push,
+tambien hubieron errores fatales como borrar el disparador de pull pero se arreglo usando la rama hotfix
+
+las estrategias de revision fue revisar que toda rama estuviera actualizada con todo lo ultimo haciendo pull y merge en cada una de ellas y ya no se que mas espero que este correcto todo y bien hecho la evaluacion muchas gracias
