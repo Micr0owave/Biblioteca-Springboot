@@ -1,0 +1,19 @@
+name: github-actions-saludo-pull
+
+on:
+  pull_request:
+    branches:
+      - main
+      - feature
+      - hotfix
+      - develop
+
+jobs:
+  saludo:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Saludo
+        run: 
+          echo "holaa buen pull request!!."
+          echo "Los cambios van en camino!!."
